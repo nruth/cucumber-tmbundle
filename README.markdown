@@ -7,8 +7,6 @@ This is the official TextMate bundle for Cucumber. Installation:
     cd ~/Library/Application\ Support/Avian/Bundles
     git clone git://github.com/cucumber/cucumber-tmbundle.git Cucumber.tmbundle
 
-To activate the bundle simply restart TextMate.
-
 To install the color themes for the syntax highlighting, install them as follows:
 
     open Cucumber.tmbundle/color_themes/Cobalt.tmTheme

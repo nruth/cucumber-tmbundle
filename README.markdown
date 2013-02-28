@@ -58,6 +58,7 @@ The Cucumber TM Bundle is currently maintained by Andrew Premdas.
 * **Ashley Moran** - Improved Align Table Cells command
 * **Jari Bakken** - Syntax Highlighting improvements, include support for @tags.
 * **Chris Hoffman** - Improved Step Definition grammar to handle string interpolation when calling other steps.
+* **Rick Jones** - Updated to work with TextMate 2.
 
 TODO
 ====

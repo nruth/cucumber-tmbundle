@@ -3,10 +3,11 @@ Textmate Bundle for Cucumber
 
 This is the official TextMate bundle for Cucumber. Installation:
 
-    mkdir -p ~/Library/Application\ Support/TextMate/Bundles/
-    cd ~/Library/Application\ Support/TextMate/Bundles
+    mkdir -p ~/Library/Application\ Support/Avian/Bundles/
+    cd ~/Library/Application\ Support/Avian/Bundles
     git clone git://github.com/cucumber/cucumber-tmbundle.git Cucumber.tmbundle
-    osascript -e 'tell app "TextMate" to reload bundles'
+
+To activate the bundle simply restart TextMate.
 
 To install the color themes for the syntax highlighting, install them as follows:
 
